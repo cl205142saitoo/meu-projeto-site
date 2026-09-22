@@ -1,1 +1,6 @@
 projeto do site
+
+Sobre o site:
+- Desenvolvido por Eloah Saito
+- Data de inicio: 22-09-2026
+- Descricao: Site de filme.
